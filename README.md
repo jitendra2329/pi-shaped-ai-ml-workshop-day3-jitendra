@@ -1,13 +1,13 @@
 
 ---
 
-## 🛠️ Features & Methods
+## Features & Methods
 
-### ✅ Data Cleaning
+### Data Cleaning
 - Removes rows with missing values in key delay columns.
 - Filters out airports with fewer than 100 data points.
 
-### ✅ Feature Engineering
+### Feature Engineering
 
 1. **Time-Based Features**
    - Extracts:
@@ -31,7 +31,7 @@
 
 ---
 
-## 🤖 Model Training
+## Model Training
 
 - **Model:** Random Forest Classifier
 - **Target:** Airport label (encoded)
@@ -39,7 +39,7 @@
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 # Install required libraries
